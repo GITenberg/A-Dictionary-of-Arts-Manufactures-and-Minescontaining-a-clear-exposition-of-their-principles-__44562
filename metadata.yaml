@@ -1,0 +1,29 @@
+_repo: A-Dictionary-of-Arts-Manufactures-and-Minescontaining-a-clear-exposition-of-their-principles-__44562
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44562-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ure, Andrew
+    birthdate: 1778
+    deathdate: 1857
+    gutenberg_agent_id: '42812'
+    url: http://www.gutenberg.org/2009/agents/42812
+description: ''
+gutenberg_issued: '2014-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial arts -- Dictionaries'
+- !lcc 'T'
+- !lcsh 'Technology -- Dictionaries'
+title: 'A Dictionary of Arts, Manufactures and Mines
+
+  containing a clear exposition of their principles and practice'
+url: http://www.gutenberg.org/ebooks/44562
